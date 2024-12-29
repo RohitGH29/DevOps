@@ -1,0 +1,7 @@
+git config user.name "Your Personal Name"
+git config user.email "your_personal_email@example.com"
+
+git config user.name
+git config user.email
+
+git remote -v
